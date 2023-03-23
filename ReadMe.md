@@ -49,19 +49,19 @@
 
 # Korisnički Interfejs
 
-![Intro Window](screenshots/1.png)
+![Intro Window](screenshots/1.PNG)
 <br/><br/>
-![Login Window](screenshots/2.png)
+![Login Window](screenshots/2.PNG)
 <br/><br/>
-![Window](screenshots/3.png)
+![Window](screenshots/3.PNG)
 <br/><br/>
-![ Window](screenshots/4.png)
+![ Window](screenshots/4.PNG)
 <br/><br/>
-![ Window](screenshots/5.png)
+![ Window](screenshots/5.PNG)
 <br/><br/>
-![ Window](screenshots/6.png)
+![ Window](screenshots/6.PNG)
 <br/><br/>
-![ Window](screenshots/7.png)
+![ Window](screenshots/7.PNG)
 
 > **Warning**
 > Izgled aplikacije je podložan promeni i predstavlja trenutnu ilustraciju UI!
