@@ -4,20 +4,20 @@
  <p align="center">Aplikacija koja predstavlja pojednostavljenu verziju sistema za upravljanje sadržajem.</p>
 </p>
   <p align="center">
-    <a href="https://github.com/owlCoder/cms/actions">
+    <a href="https://github.com/owlCoder/Content-Managment-System/actions">
       <img alt="Tests Passing" src="https://travis-ci.org/dwyl/esta.svg" />
     </a>
     <a href="https://github.com/owlCoder/cache-cms/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/owlCoder/cms" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/owlCoder/Content-Managment-System" />
     </a>
     <a href="https://codecov.io/gh/owlCoder/cms">
       <img src="https://camo.githubusercontent.com/6ef37dcea5bd735bd79e9f3909739e07573aa9e5011e6217b0059f940959b752/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f7665726167652d39362532352d627269676874677265656e2e737667" />
     </a>
     <a href="https://github.com/owlCoder/cms/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/owlCoder/cms?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/owlCoder/Content-Managment-System?color=0088ff" />
     </a>
     <a href="https://github.com/owlCoder/cms/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/owlCoder/cms?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/owlCoder/Content-Managment-System?color=0088ff" />
     </a>
      <a href="https://github.com/owlCoder/cms/pulls">
       <img alt="GitHub pull requests" src="https://codeclimate.com/github/dwyl/esta/badges/gpa.svg" />
@@ -27,11 +27,11 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/owlCoder/cms/issues/new/choose">Prijava Bug-a</a>
+    <a href="https://github.com/owlCoder/Content-Managment-System/issues/new/choose">Prijava Bug-a</a>
     ·
-    <a href="https://github.com/owlCoder/cms/issues/new/choose">Nova mogućnost u aplikaciji</a>
+    <a href="https://github.com/owlCoder/Content-Managment-System/issues/new/choose">Nova mogućnost u aplikaciji</a>
     ·
-    <a href="https://github.com/owlCoder/cms/discussions">Postavite pitanje</a>
+    <a href="https://github.com/owlCoder/Content-Managment-System/discussions">Postavite pitanje</a>
   </p>
   <br />
 </p>
