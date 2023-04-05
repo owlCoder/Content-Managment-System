@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/owlCoder/Content-Managment-System/actions">
-      <img alt="Tests Passing" src="https://travis-ci.org/dwyl/esta.svg" />
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/owlCoder/cache-cms/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/owlCoder/Content-Managment-System" />
